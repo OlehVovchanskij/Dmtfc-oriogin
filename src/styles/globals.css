@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+body {
+	overflow-x: hidden;
+}
+* {
+	font-size: 16px;
+	font-family: Fira Sans;
+	font-weight: 600;
+}

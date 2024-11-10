@@ -1,0 +1,8 @@
+* {
+	font-size: 16px;
+}
+.nav_link {
+	@apply sm:text-[16px];
+	@apply md:text-[14px];
+	@apply lg:text-[16px];
+}
